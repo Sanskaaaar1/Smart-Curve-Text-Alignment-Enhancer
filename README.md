@@ -11,3 +11,9 @@ Run the Main_App.py  : streamlit run Main_App.py
 ![5  download](https://github.com/user-attachments/assets/2bb8c582-3ffd-4f81-b5ef-193835f873![3 sample 1](https://github.com/user-attachments/assets/0d98ea9f-516b-4c62-afa2-777a864a6bc8)
 30)
 ![4 sample 2](https://github.com/user-attachments/assets/3398dec7-c816-47d2-ad80-f8c7ef77c1aa)
+
+
+
+Rearch paper published in JOURNAL OF TECHNOLOGY
+
+![JOT-5948 C(3)](https://github.com/user-attachments/assets/91a4714b-a117-4b01-a696-0ef196c2f0b8)
